@@ -1,1 +1,3 @@
-# project
+red
+blue
+yellow
